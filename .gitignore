@@ -1,0 +1,43 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+JAVA
+## File-based project format:
+*.iws
+
+# IntelliJ
+out/
+.idea/
+*.iml
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+log/
+target/
+
+
+[bB]in/
+obj/
+[dD]ebug/
+[rR]elease/
+*.user
+*.cache
+*.log*
+*log.txt*
+*.suo
+_Re[sS]harper.*/
+*.[Rr]e[Ss]harper
+/*/bin/
+/*/debug/
